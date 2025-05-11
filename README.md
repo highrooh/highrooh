@@ -1,8 +1,8 @@
 ##
 # About
  * Name: Rodrigo 
- * Age: 24
- * Discord: _Rooh#0001
+ * Age: 26
+ * Discord: _rooh
  <div>
   <a href="https://github.com/highrooh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=highrooh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
