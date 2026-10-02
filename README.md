@@ -6,7 +6,7 @@ Desenvolvo aplicações web, APIs e ferramentas de automação. Também sou CEO 
 
 ## Tecnologias
 
-- **Linguagens e frameworks:** C++, C#, .NET, PHP, JavaScript, TypeScript, Python, Flask e Lua
+- **Linguagens e frameworks:** C++, C#, .NET, PHP, JavaScript, TypeScript, Python, Flask e Lua,React
 - **Bancos de dados:** SQL Server, PostgreSQL, MySQL e SQLite
 - **Infraestrutura e ferramentas:** Docker, Docker Compose e Git
 
